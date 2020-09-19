@@ -3,6 +3,13 @@
 
 ![Photo](https://d1bvpoagx8hqbg.cloudfront.net/259/3d6d384490bbc26ce03491a6893eeaf5.jpg)
 
+## Contacts
+
+*Phone*: +375 (29) 833 00 02
+
+*Email*: 8grkc8@gmail.com
+
+*Telegram*: @grkc8
 
 ## Summary
 At the moment I am a 4th year student of State Technical University P.O.Sukhoi as programmer and I have no work experience in programming. I'm trying to improve my English. I have knowledge of Photoshop. I like to learn something new.
