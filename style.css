@@ -1,0 +1,29 @@
+.italicText {
+    font-style: italic;
+}
+
+#photoResume {
+    width: 20%;
+    border-radius: 5%;
+    float: left;
+    margin-right: 4%;
+}
+
+h1 {
+    margin-bottom: 0%;
+    padding: 0%;
+}
+
+body {
+    margin-left: 18%;
+    margin-right: 18%;
+}
+
+p,
+span {
+    font-size: 1.2em;
+}
+
+pre {
+    background-color: rgba(68, 68, 68, 0.055)
+}
